@@ -2,7 +2,11 @@
 
 # Requirements
 - Download Python 3: https://www.python.org/downloads/release/python-366/
+- Tick the option to add it to your path!
 
 # Running the Program
-- After successfully downloading and installing python 3, simply run with the command below in terminal or cmd (Update the URL! v5.20 was the last one that was tested, for the next big patch, it should be changed to 5.30!):
-- python3 patch_check.py
+- After successfully installing Python 3, download the program via GitHub. 
+- Open config.py in software that can edit code.
+- Add the URL for the next big patch, an example is given in config.py. Make sure you add it between the single quotes.
+- Add your Operating System. Options include: macOS, windows, or linux. This should also be between the single quotes provided.
+- Finally, open your terminal, change your directory to the folder that contains my program, and run: python3 patch_check.py
