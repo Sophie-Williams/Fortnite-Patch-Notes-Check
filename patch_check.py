@@ -1,5 +1,5 @@
 import requests
-from config.py import operating_system, url
+from config import operating_system, url
 try:
     import os
 except ImportError:
