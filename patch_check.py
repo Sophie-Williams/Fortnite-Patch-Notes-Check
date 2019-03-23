@@ -11,7 +11,7 @@ except ImportError:
     print('Did not import winsound.')
     pass
 
-#please don't use this ridiculously ahead of time, as it continiously requests epicgames.
+#please don't use this ridiculously ahead of time, as it continuously requests epicgames.
 #use 15 minutes before downtime for a big patch and the bot will notify you and shut off once the page goes live.
 #404 = Error, page didn't load.
 #replace the below URL with whatever the upcoming version is.
